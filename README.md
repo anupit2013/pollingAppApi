@@ -15,17 +15,15 @@ A polling system API is an application programming interface that allows develop
 
 To install all the dependences of the project, run the following command:
 
-    git clone https://github.com/shakti1590/Polling-api-system.git
+    git clone https://github.com/anupit2013/pollingAppApi
+
     npm install
     npm start
 
 
 #### Source Code:
- - Link : https://github.com/shakti1590/Polling-api-system
+ - Link : https://github.com/anupit2013/pollingAppApi
 
-
-#### Deployment Link:
- - Link : https://polling-api-system.vercel.app/
 
 
 
